@@ -1,6 +1,3 @@
-org 0x7c00
-bits 16
-
 ; Prints text on si register
 print_str:
     mov bx, 0
